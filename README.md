@@ -1,4 +1,4 @@
-  # BluRoll Privacy Policy
+  # BluRoll Privacy Policy and Support 
 
   _Last updated: 2026-05-24_
 
@@ -135,3 +135,5 @@
   updated" date above and, where appropriate, prompt you on next
   sign-in.
 
+  ## Support
+  For support, create a new issue in the repo.
